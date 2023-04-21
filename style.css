@@ -25,6 +25,7 @@ html,body{
     padding: 3px 3px;
     text-decoration: none;
     color: white;
+    text-align: center;
 
 }
 
@@ -39,7 +40,7 @@ html,body{
 }
 
 .pimg3{
-    background-image: url(image/images.jpg);
+    background-image: url(images/ebikego-ev-battery-recycling.webp);
     min-height: 100%;
 }
 
@@ -81,3 +82,24 @@ html,body{
     background-color: #282e34;
     color: #ddd;
 }
+
+/* @media screen and(max-width: 991px){
+    .navbar{
+        display: block;
+        
+    }
+} */
+
+/* @media (min-width: 412px) and (max-width: 914px){
+    .navbar{
+        display: block;
+    }
+} */
+
+ img{
+    float: center;
+    width: 233px;
+    
+    
+
+} 
